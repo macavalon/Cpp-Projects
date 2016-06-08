@@ -9,5 +9,6 @@
 #include "reporter.h"
 #include "TimeUtils.h"
 #include "User.h"
+#include "csvReader.h"
 
 #endif

@@ -51,7 +51,7 @@ public:
 		{
 			string line = "";
 
-			ifstream file(filename);
+			std::ifstream file(filename);
 			if(file.is_open())
 			{
 				while (getline(file, line))
