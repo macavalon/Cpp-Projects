@@ -27,3 +27,8 @@ Replicate basic functionality of classes available in .NET
 A program that will generate a sitemap for a www site
 Example include making a request(to php script) to a host which has users
 And the users are to be included in the sitemap file
+
+##clp_classifier
+
+A program that will classify input text, after training of it's classifier.
+The initial Classifier class uses the naive bayes model https://en.wikipedia.org/wiki/Naive_Bayes_classifier
